@@ -1,0 +1,43 @@
+/* src/css/ListFilmPage.css */
+
+/* Style pour le conteneur principal */
+.list-film-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Style pour les champs de recherche et de filtre */
+.search-filter-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+.filter-checkbox {
+  margin-top: 5px;
+}
+
+/* Style pour le bouton "Afficher un film aléatoire" */
+.random-film-button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.random-film-button:hover {
+  background-color: #0056b3;
+}
+
+/* Style pour le FilmDetail */
+.film-detail-container {
+  margin-top: 20px;
+}

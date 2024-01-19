@@ -1,0 +1,41 @@
+/* src/components/AddFilm.css */
+
+/* Style pour le conteneur du formulaire */
+.add-film-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Style pour le titre du formulaire */
+.add-film-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+/* Style pour le label du champ de saisie */
+.add-film-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style pour le champ de saisie */
+.add-film-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+/* Style pour le bouton du formulaire */
+.add-film-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.add-film-button:hover {
+  background-color: #0056b3;
+}

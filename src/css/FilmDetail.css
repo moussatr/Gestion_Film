@@ -1,0 +1,39 @@
+/* src/components/FilmDetail.css */
+
+/* Style pour le conteneur des détails du film */
+.film-detail-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+/* Style pour le titre du film */
+.film-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+/* Style pour les éléments de détails du film */
+.film-detail-item {
+  margin-bottom: 8px;
+}
+
+/* Style pour le texte "Oui" lorsqu'un film est favori */
+.favorite-yes {
+  color: green;
+  font-weight: bold;
+}
+
+/* Style pour le texte "Non" lorsqu'un film n'est pas favori */
+.favorite-no {
+  color: red;
+  font-weight: bold;
+}
+
+/* Style pour le texte "Non noté" lorsque le film n'a pas de note */
+.not-rated {
+  font-style: italic;
+  color: #888;
+}
