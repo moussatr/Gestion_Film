@@ -94,4 +94,4 @@ Copy code
 // ... (autres films)
 ]
 Conclusion
-Cette application React offre une gestion simple de films avec des fonctionnalités de base et une interface conviviale. Vous pouvez l'étendre et la personnaliser selon vos besoins.
+Cette application React offre une gestion simple de films avec des fonctionnalités de base et une interface conviviale.
