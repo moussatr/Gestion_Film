@@ -1,4 +1,4 @@
-Documentation de l'Application React de Gestion de Films
+#Documentation de l'Application React de Gestion de Films
 
 Cette documentation fournit un aperçu de l'application React de gestion de films. L'application comprend plusieurs fonctionnalités de base pour afficher, ajouter, supprimer, noter, et filtrer des films, ainsi que pour afficher des détails de film.
 
