@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gestion_Film/static/css/main.8a6d4f09.css",
+    "main.js": "/Gestion_Film/static/js/main.1b7ef321.js",
+    "static/js/787.1cb30a11.chunk.js": "/Gestion_Film/static/js/787.1cb30a11.chunk.js",
+    "index.html": "/Gestion_Film/index.html",
+    "main.8a6d4f09.css.map": "/Gestion_Film/static/css/main.8a6d4f09.css.map",
+    "main.1b7ef321.js.map": "/Gestion_Film/static/js/main.1b7ef321.js.map",
+    "787.1cb30a11.chunk.js.map": "/Gestion_Film/static/js/787.1cb30a11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a6d4f09.css",
+    "static/js/main.1b7ef321.js"
+  ]
+}
