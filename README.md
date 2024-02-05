@@ -93,5 +93,12 @@ Copy code
 },
 // ... (autres films)
 ]
+
+Installation et Exécution
+Cloner le repository : git clone [URL_DU_REPO]
+Installer les dépendances : npm install
+Lancer l'application : npm start
+L'application sera accessible sur http://localhost:3000.
+
 Conclusion
-Cette application React offre une gestion simple de films avec des fonctionnalités de base et une interface conviviale. Vous pouvez l'étendre et la personnaliser selon vos besoins.
+Cette application React offre une gestion simple de films avec des fonctionnalités de base et une interface conviviale.
